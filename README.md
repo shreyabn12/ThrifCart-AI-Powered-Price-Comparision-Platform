@@ -149,7 +149,7 @@ Create a `.env` file inside `project/thriftcartmodel/`:
 
 ```env
 DEBUG=False
-SECRET_KEY=your-secret-key-here
+SECRET_KEY=thrifcart_x9k2m$p7qw3z#n8v
 ```
 
 ---
